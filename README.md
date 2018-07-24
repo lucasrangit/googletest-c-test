@@ -8,3 +8,7 @@ Using Google Test to find and fix the memory management bugs from https://backtr
 1. Edit `Makefile` and point `GTEST_DIR` to Google Test includes.
 1. `make`
 
+## Test
+
+1. `make test`
+
